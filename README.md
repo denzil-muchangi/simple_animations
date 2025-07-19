@@ -1,7 +1,5 @@
 # simple_animations
 
-# Simple Animations Demo
-
 A Flutter project demonstrating basic animations using `AnimatedContainer` and `AnimatedOpacity`.
 
 ## Features
